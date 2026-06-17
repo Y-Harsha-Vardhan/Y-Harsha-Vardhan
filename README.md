@@ -9,7 +9,7 @@ Systems · Algorithms · Applied Cryptography · Web
 [![Portfolio](https://img.shields.io/badge/Portfolio-y--harsha--vardhan.github.io-08080d?style=flat-square&logo=githubpages&logoColor=white)](https://y-harsha-vardhan.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Y--Harsha--Vardhan-181717?style=flat-square&logo=github)](https://github.com/Y-Harsha-Vardhan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsha%20Vardhan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsha-vardhan-yalamanchili-086a60323)
-[![Codeforces](https://img.shields.io/badge/Codeforces-NovaStorm37-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/NovaStorm37)
+[![Codeforces](https://img.shields.io/badge/Codeforces-limitless__-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/limitless__)
 [![Email](https://img.shields.io/badge/Email-yharshavardhan37@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yharshavardhan37@gmail.com)
 
 </div>
