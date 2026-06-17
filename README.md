@@ -116,7 +116,7 @@ CS293 team project on graph routing — algorithm selection, complexity analysis
 
 - **Honours track** in Computer Science at IIT Bombay
 - Pushing on systems, applied cryptography, and the quant/ML overlap
-- Competitive programming on Codeforces — [NovaStorm37](https://codeforces.com/profile/NovaStorm37)
+- Competitive programming on Codeforces — [limitless__](https://codeforces.com/profile/limitless__)
 
 ---
 
