@@ -16,7 +16,7 @@ Building production systems · Systems · Algorithms · Applied Cryptography · 
 
 ---
 
-Second-year CS undergrad at IIT Bombay (Honours track). I like taking things past the point where they're "done for the assignment" and into the point where a real user is depending on them — that's meant shipping a production CRM for a paying client, backtesting systematic trading strategies against real market data, and building search-based AI from the ground up rather than importing a library.
+Third-year CS undergrad at IIT Bombay (Honours track). I like taking things past the point where they're "done for the assignment" and into the point where a real user is depending on them — that's meant shipping a production CRM for a paying client, backtesting systematic trading strategies against real market data, and building search-based AI from the ground up rather than importing a library.
 
 For the full writeups, decision logs, and reports, see the **[portfolio](https://y-harsha-vardhan.github.io)**.
 
@@ -93,7 +93,7 @@ Full-stack web app for browsing menus and managing orders. Component-state cart,
 
 ## Currently
 
-- **Honours track** in Computer Science at IIT Bombay
+- **Third-year, Honours track** in Computer Science at IIT Bombay
 - Looking for the next thing worth building end-to-end — ideally at the intersection of AI, systems, and real users
 - Competitive programming on Codeforces — [limitless__](https://codeforces.com/profile/limitless__)
 
